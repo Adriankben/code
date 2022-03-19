@@ -6,8 +6,10 @@ const secondsEl = document.getElementById("seconds");
 // curent date
 const currentDate = new Date();
 
+//E - currentDate.getFullYear(), 9, 18
+//A - currentDate.getFullYear(), 9, 18
 // Set the date we're counting down to
-const birthdayDate = new Date(currentDate.getFullYear(), 9, 18);
+const birthdayDate = new Date(currentDate.getFullYear(), 0, 8);
 
 // Update the count down every 1 second
 var x = setInterval(function() {
