@@ -1,4 +1,4 @@
 # code
 Side Projects
 
-This is a collection of the various projects I have completed over the years.
+This is a collection of the some of my personal projects.
