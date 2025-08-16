@@ -1,2 +1,2 @@
 # Code
-This is a collection of projects.
+A collection of projects.
